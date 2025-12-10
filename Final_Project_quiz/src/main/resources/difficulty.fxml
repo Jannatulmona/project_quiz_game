@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VBox xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.example.DifficultyController"
+      alignment="CENTER"
+      spacing="20"
+      style="-fx-padding: 50; -fx-background-color: #e1f5fe;">
+
+    <Text text="Select Difficulty" style="-fx-font-size:24px; -fx-font-weight: bold; -fx-fill:#01579b;"/>
+    <Button text="Easy" onAction="#handleDifficulty"
+            style="-fx-font-size:16px; -fx-padding:10 20 10 20; -fx-background-color: #0288d1; -fx-text-fill:white; -fx-background-radius:5;"/>
+    <Button text="Medium" onAction="#handleDifficulty"
+            style="-fx-font-size:16px; -fx-padding:10 20 10 20; -fx-background-color: #0277bd; -fx-text-fill:white; -fx-background-radius:5;"/>
+    <Button text="Hard" onAction="#handleDifficulty"
+            style="-fx-font-size:16px; -fx-padding:10 20 10 20; -fx-background-color: #01579b; -fx-text-fill:white; -fx-background-radius:5;"/>
+</VBox>
