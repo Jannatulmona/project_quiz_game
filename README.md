@@ -99,7 +99,7 @@ String password = "your_password";
 ---
 ## ▶️ **Running the Project**
 1.Clone the repository:
-**`git clone https://github.com/Jannatulmona/quiz-app.git`**
+**`git clone https://github.com/Jannatulmona/project_quiz_game.git`**
 2. Open the project in your IDE  
 3. Add **mysql-connector-j.jar** to project libraries  
 4. Configure JavaFX VM options (replace with your JavaFX path):
@@ -121,5 +121,5 @@ Controller – Application logic & event handling
 
 ## 👀 **Preview**
 ### **Login Screen**
-![Login Screen]<img width="651" height="559" alt="Screenshot 2025-12-06 180558" src="https://github.com/user-attachments/assets/1ea0ba93-3e8b-47d7-ac7f-6f93bcfd7f9b" />
+![Login Screen]
 
