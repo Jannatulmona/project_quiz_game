@@ -120,6 +120,8 @@ Controller – Application logic & event handling
 ---
 
 ## 👀 **Preview**
+### **Welcome Screen**
+![welcome Screen]https://github.com/Jannatulmona/project_quiz_game/blob/f4f6bfc631510facf6f99869c62add88ad998739/Screenshot%202025-12-06%20180558.png
 ### **Login Screen**
-![Login Screen]
+![Login Screen]https://github.com/Jannatulmona/project_quiz_game/blob/f4f6bfc631510facf6f99869c62add88ad998739/Screenshot%202025-12-06%20180640.png
 
