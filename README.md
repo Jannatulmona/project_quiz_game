@@ -121,7 +121,8 @@ Controller – Application logic & event handling
 
 ## 👀 **Preview**
 ### **Welcome Screen**
-![https://github.com/Jannatulmona/project_quiz_game/blob/0597d85d3561af1b2ce08e34ae86dc2b267660bc/Screenshot%202025-12-06%20180558.png]
+![<img width="651" height="559" alt="image" src="https://github.com/user-attachments/assets/827bc5ec-135d-4a51-9aa0-72ef590a5475" />
+]
 ### **Login Screen**
 ![Login Screen]https://github.com/Jannatulmona/project_quiz_game/blob/f4f6bfc631510facf6f99869c62add88ad998739/Screenshot%202025-12-06%20180640.png
 
